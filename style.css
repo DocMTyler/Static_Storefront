@@ -1,0 +1,104 @@
+body{
+    background-image: url("pics/library.jpg");
+    max-width: 100%;
+    height: auto;
+}
+
+a{
+    color:white;
+}
+
+.navbar{
+    height:50px;
+}
+
+.main{
+    display:inline;
+    color:white;
+    text-align: center;
+}
+
+.navicon{
+    background-color: transparent;
+    padding: 5px;
+    height: 3em;
+    float:right;
+}
+
+li{
+    color:white;
+}
+
+#maintitle{
+    font-size: 300%;
+    text-shadow: -1px 1px 0 #000,
+				  1px 1px 0 #000,
+				 1px -1px 0 #000,
+				-1px -1px 0 #000;
+}
+
+#mainsections{
+    font-size:200%
+}
+
+#searchbar{
+    margin-top: 30px;
+    float:right;
+}
+
+ul{
+    list-style-type: none;
+}
+#poptitlesid{
+    background-color: transparent;
+    height: 700em;
+    color:white;
+    text-shadow: -1px 1px 0 #000,
+    1px 1px 0 #000,
+   1px -1px 0 #000,
+  -1px -1px 0 #000;
+}
+
+#sbt{
+    background-color: transparent;
+    color:white;
+    text-shadow: -1px 1px 0 #000,
+    1px 1px 0 #000,
+   1px -1px 0 #000,
+  -1px -1px 0 #000;
+}
+
+#sba{
+    background-color: transparent;
+    color:white;
+    text-shadow: -1px 1px 0 #000,
+    1px 1px 0 #000,
+   1px -1px 0 #000,
+  -1px -1px 0 #000;
+}
+
+#sbg{
+    background-color: transparent;
+    color:white;
+    text-shadow: -1px 1px 0 #000,
+    1px 1px 0 #000,
+   1px -1px 0 #000,
+  -1px -1px 0 #000;
+}
+
+#rightside{
+    text-align:right;
+}
+
+#ads{
+    color:white;
+}
+
+footer{
+    position: fixed;
+    bottom:10px;
+    left: 480px;
+    text-align: center;
+    color:white;
+}
+
